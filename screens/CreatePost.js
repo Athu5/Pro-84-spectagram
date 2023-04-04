@@ -23,6 +23,8 @@ constructor(props) {
 super(props);
 this.state = {
 fontsLoaded: false,
+previewImage: "image_1", 
+dropdownHeight: 40 
         };
     }
 
